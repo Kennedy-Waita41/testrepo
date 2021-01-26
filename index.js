@@ -1,1 +1,1 @@
-status
+alert.("hi");
